@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="dressGradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2c5282"/>
+      <stop offset="1" stop-color="#4299e1"/>
+    </linearGradient>
+  </defs>
+  <path d="M34 10H46L50 20L44 26L48 32L56 54L48 62H32L24 54L32 32L36 26L30 20L34 10Z" fill="url(#dressGradient)"/>
+  <path d="M30 52H50" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+</svg>
+
+

@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shirtGradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2c5282"/>
+      <stop offset="1" stop-color="#4299e1"/>
+    </linearGradient>
+  </defs>
+  <path d="M26 10L34 6H46L54 10L62 22L52 28L50 22H30L28 28L18 22L26 10Z" fill="url(#shirtGradient)"/>
+  <rect x="26" y="22" width="28" height="40" rx="4" fill="url(#shirtGradient)"/>
+</svg>
+
+

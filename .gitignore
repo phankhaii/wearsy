@@ -1,0 +1,47 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment files
+.env
+.env.local
+config/database.php
+
+# Uploads (nếu không muốn commit file upload)
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# XAMPP specific
+htdocs/
+
+# Database dumps
+*.sql
+!database/schema.sql
+
+
+
+
+
+
+

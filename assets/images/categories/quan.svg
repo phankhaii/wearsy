@@ -1,0 +1,13 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pantsGradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2c5282"/>
+      <stop offset="1" stop-color="#4299e1"/>
+    </linearGradient>
+  </defs>
+  <path d="M28 10H52L56 32L52 66H44L40 44L36 66H28L24 32L28 10Z" fill="url(#pantsGradient)"/>
+  <path d="M36 10L34 22" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M44 10L46 22" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+</svg>
+
+

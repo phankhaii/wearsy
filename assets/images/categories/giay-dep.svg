@@ -1,0 +1,12 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shoeGradient" x1="0" y1="0" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2c5282"/>
+      <stop offset="1" stop-color="#4299e1"/>
+    </linearGradient>
+  </defs>
+  <path d="M10 46L26 34L34 42L46 38L58 44L70 48V58C70 60.2091 68.2091 62 66 62H14C11.7909 62 10 60.2091 10 58V46Z" fill="url(#shoeGradient)"/>
+  <path d="M28 34C28 31.7909 29.7909 30 32 30H36L42 36" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+
+
